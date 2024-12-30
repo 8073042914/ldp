@@ -1,1 +1,2 @@
 pip install scipy
+pip install --upgrade pip
